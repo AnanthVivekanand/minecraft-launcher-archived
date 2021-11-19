@@ -1,4 +1,6 @@
-# minecraft-launcher
+# minecraft-launcher (old, archived)
+
+### Archived in favor of https://github.com/AnanthVivekanand/minecraft-launcher
 
 ### Fast, stealthy, and free
 
